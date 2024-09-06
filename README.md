@@ -9,7 +9,7 @@ A simple example of how to deploy and interact with ETH smart contracts using Go
 ```bash
 go get github.com/ethereum/go-ethereum
 cd $GOPATH/src/github.com/ethereum/go-ethereum/
-make
+make devtools
 make devtools
 ```
 
